@@ -55,7 +55,7 @@ This repository contains practice files and code examples related to the followi
 ## 📂 Repository Structure
 
 ```text
-Programming-Practice/
+PRACTICE-REPOSITORY/
 │
 ├── HTML/
 │   ├── Basics/
@@ -163,7 +163,7 @@ git clone https://github.com/theabhishekupadhyay/PRACTICE-REPOSITORY.git
 Navigate into the repository:
 
 ```bash
-cd Programming-Practice
+cd PRACTICE-REPOSITORY
 ```
 
 ---
