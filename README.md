@@ -157,7 +157,7 @@ Each folder contains source code, practice exercises, and examples related to it
 To clone this repository:
 
 ```bash
-git clone [(https://github.com/theabhishekupadhyay/PRACTICE-REPOSITORY.git)]
+git clone https://github.com/theabhishekupadhyay/PRACTICE-REPOSITORY.git
 ```
 
 Navigate into the repository:
